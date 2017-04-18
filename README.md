@@ -3,6 +3,7 @@ JS, Angular, React - links, articles, videos
 
 
 ## ANGULAR 2
+- https://toddmotto.com/
 - https://angular.io/docs/ts/latest/quickstart.html
 
 ## REACT
