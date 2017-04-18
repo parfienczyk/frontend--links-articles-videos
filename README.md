@@ -1,4 +1,4 @@
-# frontend--links-articles-videos
+# Frontend -- links, articles, videos, tutorials and other good stuff for frontend developers
 JS, Angular, React - links, articles, videos
 
 
