@@ -16,6 +16,10 @@ JS, Angular, React - links, articles, videos
 - https://hackernoon.com/simple-react-development-in-2017-113bd563691f
 
 
+## JavaScript
+- http://blog.hirestephanie.today/30-days-javascript-part-1/
+- https://javascript30.com/
+
 ## OTHERS
 - https://www.youtube.com/watch?v=v5r_n6Tq0uk [A Modern Front-End Workflow – Umar Hansa | Render 2017
 ]
