@@ -7,6 +7,7 @@ JS, Angular, React - links, articles, videos
 - https://angular.io/docs/ts/latest/quickstart.html
 - https://blog.sagipl.com/angular-vs-angular-2/
 - https://github.com/AngularClass/NG6-starter
+- [!] https://github.com/housseindjirdeh/angular2-hn
 
 
 ## REACT
