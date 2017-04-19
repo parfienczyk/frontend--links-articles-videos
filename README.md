@@ -12,7 +12,7 @@ JS, Angular, React - links, articles, videos
 ## REACT
 - https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0  [React Conf 2017]
 - http://conf.reactjs.org/
-- https://medium.freecodecamp.com/building-teslas-battery-range-calculator-with-react-part-3-css-animation-797476dc1b3
+- https://medium.freecodecamp.com/building-teslas-battery-range-calculator-with-react-part-1-2cb7abd8c1ee
 - https://hackernoon.com/simple-react-development-in-2017-113bd563691f
 
 
