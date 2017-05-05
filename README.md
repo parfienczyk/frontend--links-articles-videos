@@ -15,6 +15,7 @@ JS, Angular, React - links, articles, videos
 - http://conf.reactjs.org/
 - https://medium.freecodecamp.com/building-teslas-battery-range-calculator-with-react-part-1-2cb7abd8c1ee
 - https://hackernoon.com/simple-react-development-in-2017-113bd563691f
+- https://github.com/ReactTraining
 
 
 ## JavaScript
