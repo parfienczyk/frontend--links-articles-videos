@@ -22,6 +22,11 @@ JS, Angular, React - links, articles, videos
 - http://blog.hirestephanie.today/30-days-javascript-part-1/
 - https://javascript30.com/
 
+## UI
+- http://fontello.com/
+- https://gtmetrix.com/
+- https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd
+
 ## OTHERS
 - https://www.youtube.com/watch?v=v5r_n6Tq0uk [A Modern Front-End Workflow – Umar Hansa | Render 2017
 ]
