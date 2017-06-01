@@ -2,6 +2,9 @@
 JS, Angular, React - links, articles, videos
 
 
+## PWA
+- https://hnpwa.com/
+
 ## ANGULAR 2
 - https://toddmotto.com/
 - https://angular.io/docs/ts/latest/quickstart.html
@@ -22,6 +25,9 @@ JS, Angular, React - links, articles, videos
 ## JavaScript
 - http://blog.hirestephanie.today/30-days-javascript-part-1/
 - https://javascript30.com/
+
+## ES6
+- https://appendto.com/2017/03/es6-one-liners-to-show-off
 
 ## UI
 - https://material.io/components/
