@@ -39,6 +39,7 @@ JS, Angular, React - links, articles, videos
 - https://www.youtube.com/watch?v=v5r_n6Tq0uk [A Modern Front-End Workflow – Umar Hansa | Render 2017
 ]
 - https://github.com/vvscode/js--interview-questions
+- https://pawelkondraciuk.github.io/meetjs-optimisation/
  
  ### Fonts
  - http://www.hvdfonts.com/#201-fabrikat
