@@ -4,6 +4,7 @@ JS, Angular, React - links, articles, videos
 
 ## PWA
 - https://hnpwa.com/
+- https://mobile.angular.io/ [!]
 
 ## ANGULAR 2
 - https://toddmotto.com/
